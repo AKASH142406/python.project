@@ -1,0 +1,14 @@
+print("Addition:-", 8 + 7)
+print("Subtraction:-", 8 - 7)
+print("division:-",8 / 7)
+print("Multiplication:-", 8 * 7)
+for i in range(2):
+    print(i, end=" ")
+for j in range(10):
+    print(j,end=" ");
+print()
+name=input("enter the name:")
+print(name)
+print()
+values=[10,20,30]
+print(values)
